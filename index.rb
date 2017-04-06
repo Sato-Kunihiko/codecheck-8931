@@ -1,3 +1,3 @@
 require './app/main'
 
-main(ARGV)
+main("Hello World")
