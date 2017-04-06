@@ -1,3 +1,3 @@
 require './app/main'
 
-main(["Hello World"])
+main(["Hello World!"])
