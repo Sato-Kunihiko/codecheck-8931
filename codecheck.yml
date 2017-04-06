@@ -1,3 +1,5 @@
+build:
+- bundle install
 env:
-  APP_COMMAND: node index.js
+  APP_COMMAND: ruby index.rb
 test: mocha
